@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conversemos de Edición</title>
+    <description>Con el propósito de estrechar relaciones y difundir parte de nuestro quehacer editorial,  
+la Asociación Mexicana de Profesionales de la Edición, AC (**PEAC**) y la Cámara Nacional  
+de la Industria Editorial Mexicana (**Caniem**) organizamos una serie de cuatro conversatorios  
+virtuales titulados *Conversemos de edición*.
+</description>
+    <link>http://localhost:4000/conversemos-de-edicion/</link>
+    <atom:link href="http://localhost:4000/conversemos-de-edicion/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Jul 2024 22:40:29 -0600</pubDate>
+    <lastBuildDate>Tue, 30 Jul 2024 22:40:29 -0600</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+  </channel>
+</rss>
