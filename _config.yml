@@ -2,16 +2,13 @@
 #
 
 # Site settings
-title: Conversemos de Edición
+title: XVIII DICE
 description: |
-  Con el propósito de estrechar relaciones y difundir parte de nuestro quehacer editorial,  
-  la Asociación Mexicana de Profesionales de la Edición, AC (**PEAC**) y la Cámara Nacional  
-  de la Industria Editorial Mexicana (**Caniem**) organizamos una serie de cuatro conversatorios  
-  virtuales titulados *Conversemos de edición*.
+  Celebremos una vez más el **Día Internacional de la Corrección de Estilo** refleccionando en torno a las semejanzas y diferencias que enfrentamos mujeres y hombres en el ámbito editorial.
 owner: PEAC # or company name
 first_published: 2024 # if migrating another site, the year of your first publish
 email: informacion@peac.mx
-baseurl: "/conversemos-de-edicion" # the subpath of your site, e.g. /blog
+baseurl: "/xviii-dice" # the subpath of your site, e.g. /blog
 url: "https://peac.mx" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/peacmx

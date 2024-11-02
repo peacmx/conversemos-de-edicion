@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conversemos de Edición</title>
-    <description>Con el propósito de estrechar relaciones y difundir parte de nuestro quehacer editorial,  
-la Asociación Mexicana de Profesionales de la Edición, AC (**PEAC**) y la Cámara Nacional  
-de la Industria Editorial Mexicana (**Caniem**) organizamos una serie de cuatro conversatorios  
-virtuales titulados *Conversemos de edición*.
+    <title>XVIII DICE</title>
+    <description>Celebremos una vez más el **Día Internacional de la Corrección de Estilo** refleccionando en torno a las semejanzas y diferencias que enfrentamos mujeres y hombres en el ámbito editorial.
 </description>
-    <link>http://localhost:4000/conversemos-de-edicion/</link>
-    <atom:link href="http://localhost:4000/conversemos-de-edicion/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Aug 2024 18:53:29 -0600</pubDate>
-    <lastBuildDate>Sat, 24 Aug 2024 18:53:29 -0600</lastBuildDate>
+    <link>http://localhost:4000/xviii-dice/</link>
+    <atom:link href="http://localhost:4000/xviii-dice/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Nov 2024 00:24:42 -0600</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2024 00:24:42 -0600</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
   </channel>
